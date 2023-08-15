@@ -2,7 +2,7 @@
 This is a comprehensive Library Management System project developed using Django and React.
 
 # Client
-Here is the link to the Client repository of the project [https://github.com/Niraj1412/Library_management_system-client](https://github.com/Niraj1412/Library_management_system-client)
+Here is the link to the Client repository of the project [https://github.com/pushkarraj7/library_management_system/](https://github.com/pushkarraj7/library_management_system/)
 
 ## Project Overview
 
@@ -25,8 +25,8 @@ Follow these steps to initiate the project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/library-management.git
-   cd library-management
+   git clone https://github.com/your-username/library_management_system_server.git
+   cd library_management_system_server
    ```
 
 2. Create and activate a virtual environment:
